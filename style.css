@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#9CFFFA;
+}
+
+h1{
+    text-align: center;
+    background-color: #372772;
+    color: aliceblue;
+    margin-bottom: 10px;
+    padding: 30px;
+    font-size: 50px;
+}
+
+.choice{
+    height: 160px;
+    width: 160px;
+    margin: 10px;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.choices{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
